@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "nexora-dashboard"
+    },
+    {
+      "path": "nexora-backend"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.pytest_cache": true
+    }
+  }
+}

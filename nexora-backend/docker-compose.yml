@@ -1,0 +1,14 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16      # PostgreSQL 16 with the pgvector extension
+    environment:
+      POSTGRES_USER: nexora            # admin/owner role (superuser: bypasses RLS)
+      POSTGRES_PASSWORD: nexora
+      POSTGRES_DB: nexora
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./docker/initdb:/docker-entrypoint-initdb.d:ro
+volumes:
+  pgdata:
