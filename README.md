@@ -1,10 +1,5 @@
 ## 🚀 Nexora – AI-Powered Omnichannel B2B SaaS Platform
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Project-Nexora-blueviolet?style=for-the-badge](https://img.shields.io/badge/Project-Nexora-blueviolet?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Architecture-Multi--Tenant-blue?style=for-the-badge](https://img.shields.io/badge/Architecture-Multi--Tenant-blue?style=for-the-badge)" />
-\</p>
 
 \<p align="center">
 &#x20; \<b>One Platform. Every Conversation. Smarter Business.\</b>
