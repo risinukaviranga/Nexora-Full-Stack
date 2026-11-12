@@ -1,12 +1,5 @@
 ## 🚀 Nexora – AI-Powered Omnichannel B2B SaaS Platform
 
-
-\<p align="center">
-&#x20; \<b>One Platform. Every Conversation. Smarter Business.\</b>
-\</p>
-
----
-
 ## 🌟 About Nexora
 
 **Nexora** is an AI-powered, multi-tenant B2B SaaS platform designed to help businesses manage customer interactions, automate communication, analyze business performance, and improve customer engagement through a unified platform.
